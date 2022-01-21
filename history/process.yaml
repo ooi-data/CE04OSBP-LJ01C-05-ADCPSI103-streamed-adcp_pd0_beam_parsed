@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSBP-LJ01C-05-ADCPSI103-streamed-adcp_pd0_beam_parsed
 data_stream: CE04OSBP-LJ01C-05-ADCPSI103-streamed-adcp_pd0_beam_parsed
 end_date: '2015-12-02T15:38:17.951Z'
-last_updated: '2022-01-02T01:07:39.564281'
+last_updated: '2022-01-21T23:21:18.482540Z'
 start_date: '2014-08-25T18:34:26.660Z'
-status: failed
+status: pending
